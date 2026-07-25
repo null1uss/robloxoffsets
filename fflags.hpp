@@ -1,6 +1,6 @@
 #pragma once
 
-// Fast Flag Offsets - Last Updated By Nyvirie: 2026-07-23
+// Fast Flag Offsets - Last Updated By Nyvirie: 2026-07-24
 
 
 namespace FFlagList
